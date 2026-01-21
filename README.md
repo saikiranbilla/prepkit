@@ -54,6 +54,8 @@ Practice answering behavioral questions with instant, objective feedback.
 
 ## 🏗 Architecture
 
+![Architecture](./assets/prepkit-architecture.png)
+
 PrepKit utilizes a **Microservices Architecture** to ensure independent scaling and fault isolation. The system is containerized using Docker and orchestrated via Docker Compose.
 
 **Services List:**
